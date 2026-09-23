@@ -34,7 +34,11 @@ flutter run -d chrome
 flutter run -d emulator-5554
 ```
 
-## 两端运行截图
+## 环境检查与运行截图
+
+### flutter doctor（全绿，No issues found）
+
+![flutter doctor 全绿](docs/doctor_full.png)
 
 ### Web 端运行
 
