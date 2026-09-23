@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.example.hello_world"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    // ndkVersion = flutter.ndkVersion // 纯 Dart 项目无需 NDK，注释掉以避免下载约 1GB 的 NDK 组件
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
