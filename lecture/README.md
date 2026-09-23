@@ -47,3 +47,11 @@ flutter run -d emulator-5554
 ### Android 模拟器运行
 
 ![Android 模拟器运行](docs/emulator_run.png)
+
+### Git 提交记录
+
+![Git 提交记录](docs/git_log.png)
+
+### GitHub 远程仓库（lecture1 分支）
+
+![GitHub 仓库页面](docs/repo_page.png)
